@@ -6,5 +6,4 @@ class GardenGnome
     @personality "evil"
   end
   
-  end
 end
