@@ -3,7 +3,7 @@ class GardenGnome
   attr_writer :age :gluten_allergy
   
   def initialize(hat_color)
-    @personality "evil"
+    @personality = "evil"
   end
   
 end
